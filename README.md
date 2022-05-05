@@ -1,4 +1,4 @@
-# Deep learning Project
+# Sheet Extraction Project
 
 Main repository for data extraction.
 
